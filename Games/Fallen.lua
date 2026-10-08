@@ -16,4 +16,4 @@ You can remove this message block as you like.
                                     
 
 ]]--
-loadstring(game:HttpGet("https://luaprot.net/api/v3/loaders/get/34777498505883080777"))()
+loadstring(game:HttpGet("https://luaprot.net/api/v3/loaders/get/23077177027823196033"))()
